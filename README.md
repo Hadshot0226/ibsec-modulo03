@@ -6,8 +6,7 @@
 	<span>URL utilizada: https://ignitelab-delta.vercel.app/</span>
   <br>
 	<br>
-	<span>Retorno do request</span>
-	 <br>
+	
 			*****HTML:******
 			&lt;!DOCTYPE html&gt;
 			&lt;html lang="en"&gt;
