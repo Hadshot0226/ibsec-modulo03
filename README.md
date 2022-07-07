@@ -1,11 +1,13 @@
 <html>
 	<img src="https://app.ibsec.com.br/wp-content/themes/ibsec-2022/images/logo.webp" />
 	<strong>Exercícios de IBSEC</strong>
+	<br>
+	<br>
 	<span>URL utilizada: https://ignitelab-delta.vercel.app/</span>
-  <br />
-	<br />
+  <br>
+	<br>
 	<span>Retorno do request</span>
-	 <p>
+	 <br>
 			*****HTML:******
 			&lt;!DOCTYPE html&gt;
 			&lt;html lang="en"&gt;
@@ -28,5 +30,4 @@
 				&lt;/div&gt;
 			&lt;/body&gt;
 			&lt;/html&gt;			 
-	 </p>
 </html>
